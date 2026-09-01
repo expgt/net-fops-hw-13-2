@@ -27,45 +27,45 @@
 
 ### GitLab
 
-![GitLab](https://github.com/expgt/net-fops-hw-13-1/blob/main/13_2_1_1.png)
+![GitLab](https://github.com/expgt/net-fops-hw-13-2/blob/main/13_2_1_1.png)
 
-![GitLab_add](https://github.com/expgt/net-fops-hw-13-1/blob/main/13_2_1_2.png)
+![GitLab_add](https://github.com/expgt/net-fops-hw-13-2/blob/main/13_2_1_2.png)
 
 ### Bitbucket* (задание со звёздочкой)
 
-![Bitbucket](https://github.com/expgt/net-fops-hw-13-1/blob/main/13_2_1_3.png)
+![Bitbucket](https://github.com/expgt/net-fops-hw-13-2/blob/main/13_2_1_3.png)
 
-![Bitbucket_add](https://github.com/expgt/net-fops-hw-13-1/blob/main/13_2_1_4.png)
+![Bitbucket_add](https://github.com/expgt/net-fops-hw-13-2/blob/main/13_2_1_4.png)
 
 ---
 
 ## Задание 2. Теги
 
-![Tag_add](https://github.com/expgt/net-fops-hw-13-1/blob/main/13_2_2_1.png)
+![Tag_add](https://github.com/expgt/net-fops-hw-13-2/blob/main/13_2_2_1.png)
 
-![Bitbucket_tag](https://github.com/expgt/net-fops-hw-13-1/blob/main/13_2_2_2.png)
+![Bitbucket_tag](https://github.com/expgt/net-fops-hw-13-2/blob/main/13_2_2_2.png)
 
-![GitLab_add](https://github.com/expgt/net-fops-hw-13-1/blob/main/13_2_2_3.png)
+![GitLab_add](https://github.com/expgt/net-fops-hw-13-2/blob/main/13_2_2_3.png)
 
-![Github_add](https://github.com/expgt/net-fops-hw-13-1/blob/main/13_2_2_4.png)
+![Github_add](https://github.com/expgt/net-fops-hw-13-2/blob/main/13_2_2_4.png)
 
 ---
 
 ## Задание 3. Ветки 
 
-![Network1](https://github.com/expgt/net-fops-hw-13-1/blob/main/13_2_3_1.png)
+![Network1](https://github.com/expgt/net-fops-hw-13-2/blob/main/13_2_3_1.png)
 
-![Git_switch](https://github.com/expgt/net-fops-hw-13-1/blob/main/13_2_3_2.png)
+![Git_switch](https://github.com/expgt/net-fops-hw-13-2/blob/main/13_2_3_2.png)
 
-![Network2](https://github.com/expgt/net-fops-hw-13-1/blob/main/13_2_3_3.png)
+![Network2](https://github.com/expgt/net-fops-hw-13-2/blob/main/13_2_3_3.png)
 
-![Git_log](https://github.com/expgt/net-fops-hw-13-1/blob/main/13_2_3_4.png)
+![Git_log](https://github.com/expgt/net-fops-hw-13-2/blob/main/13_2_3_4.png)
 
 ---
 
 ## Задание 4. Упрощаем себе жизнь
 
-![PyCharm](https://github.com/expgt/net-fops-hw-13-1/blob/main/13_2_4_1.png)
+![PyCharm](https://github.com/expgt/net-fops-hw-13-2/blob/main/13_2_4_1.png)
 
 *В качестве результата работы по всем заданиям приложите ссылки на ваши репозитории в GitHub, GitLab и Bitbucket*.
 
